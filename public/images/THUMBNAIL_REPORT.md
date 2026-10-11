@@ -1,0 +1,25 @@
+# Thumbnail generation report
+
+- Built-in Codex image_gen used; no API fallback.
+- Files: thumb_a.png, thumb_b.png in C:/Projects/labs/video/aircon-shorts/public/images/.
+- Both images: 1672 x 941 pixels, RGB, fully opaque (minimum alpha 255).
+- Aspect ratio: 1.776833, approximately 16:9 (0.053% deviation); accepted under THUMBNAIL_BRIEF.md allowance for closest available landscape ratio. Not mathematically exact 16:9.
+- Direct visual inspection: no letters, numbers, logos or watermarks; left 45% contains only dark navy background; same original dark swept-hair character and white polo/light-blue collar preserved.
+- A: happy cooled character, upper wall AC with cyan airflow, lower-right condenser with orange heat waves.
+- B: surprised character pointing at condenser, orange heat waves and particles, blue cooling curve overhead.
+- No project code changed. No remaining image-generation work.
+
+## Final prompt set
+
+### A initial
+Use case: ads-marketing. Create thumb_a, a polished YouTube thumbnail illustration, landscape EXACT 16:9, 1536x864 or 2048x1152. Reference images 1 and 2 show the SAME original character; preserve that identity, chunky dark charcoal swooped hair, peach round face, rosy cheeks, white short-sleeve polo with light blue collar, soft 3D clay render. Entire left 45% of canvas must be empty solid dark navy #0B1530, no objects, no effects, for a future title. All subjects and effects strictly within right 55%. Upper right: large wall-mounted indoor air conditioner pouring vivid cyan blue cooling ribbons downward onto this character, eyes closed, very happy enjoying cool air. Lower right corner: outdoor AC condenser with visible fan grille, glowing hot orange, emitting curved orange heat waves, showing heat being expelled. Strong blue upper versus orange lower contrast, saturated colors, big clear silhouettes legible small, beautiful soft clay lighting. Opaque background, seamless navy with subtle right side blue/orange lighting only. NO text, letters, numbers, logos, brands, watermarks anywhere. No handheld fan. Compose as one coherent scene. Use both supplied images as identity/style references, not as a collage.
+
+### A composition correction
+Edit this thumbnail, preserving the same character identity, style, happy expression and AC concept. Required final canvas exactly 16:9 landscape, ideally 1536x864 pixels. Move and slightly shrink the ENTIRE illustrated group including ALL cyan ribbons, snowflakes, specks, character and both AC units into the RIGHTMOST 50% of the canvas. Left 48% must be completely uninterrupted dark navy #0B1530, absolutely no particles, ribbons, glow, snowflakes, body parts or objects there. Place wall AC upper right fully within frame, happy character center-right and hot condenser lower right fully within frame. Ensure the leftmost illustrated effect begins after x=50% leaving safety margin for the required 45% title space. No text, no numbers, no logos. Opaque background. Preserve crisp vibrant blue versus orange contrast.
+
+### B initial
+Use case: ads-marketing. Create thumb_b, a polished landscape 16:9 YouTube thumbnail, requested 1536x864 pixels. Both input images are reference images showing the SAME original character; preserve identical chunky swept charcoal hair with dangling curved forelock, peach round face, rosy cheeks, white short-sleeve polo with sky blue collar, cute soft 3D clay render. Left 48% is completely EMPTY dark navy #0B1530 solid or exceptionally subtle gradient, no objects, glow, particles or effects. Entire illustrated composition stays inside RIGHTMOST 50% leaving a safety margin. On right: large character with dramatically surprised wide eyes and open mouth pointing one index finger toward a hot outdoor air conditioner condenser in lower right corner. Condenser has prominent circular fan grille, radiant orange heat curves and small heat particles rising from it. Slight blue cooling swoosh above character head. Background on right has soft orange light bloom. Bold saturated colors, strong contrast, large clear subjects readable small. No indoor AC needed. Opaque background. Absolutely NO text, numbers, letters, logos, brands, watermarks or punctuation. No handheld fan. Preserve original reference character identity and render style, change expression and pose only.
+
+### B composition correction
+Revise layout of this thumbnail. Move character farther RIGHT so its leftmost silhouette begins at 52% canvas width. Shrink character and condenser enough to fit entire group in right half. ALL subjects and effects strictly in rightmost 50%. LEFT 48% completely empty navy #0B1530, no character overlap. Keep original character hair face identity white shirt blue collar, wide-eyed surprised open mouth, finger pointing at outdoor condenser. Remove sweat droplets from face, replace the three blue droplets above head with ONE CURVED CYAN AIR RIBBON gently flowing above hair. Orange heat curves and particles from condenser. Background on right subtle orange glow, remove sun-like bright white orb in upper corner. Preserve 3D clay style. No text or symbols. Landscape 16:9 opaque image, 1536x864.
+

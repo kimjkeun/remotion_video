@@ -1,0 +1,466 @@
+{
+  "k00-01": {
+    "src": "audio/sky-long-s2/k00-01.wav",
+    "duration": 3.34,
+    "hash": "132ce71ed3e13bb6",
+    "heard": "맑은날 고개를 들면 하늘은 세팔아쳐.",
+    "match": 0.73,
+    "verified": true
+  },
+  "k00-02": {
+    "src": "audio/sky-long-s2/k00-02.wav",
+    "duration": 5.66,
+    "hash": "132ce71ed3e13bb6",
+    "heard": "그런데 해질 무렵이 되면 같은 하늘이 주황빛과 붉은빛으로 물들어요.",
+    "match": 1,
+    "verified": true
+  },
+  "k00-03": {
+    "src": "audio/sky-long-s2/k00-03.wav",
+    "duration": 4.1,
+    "hash": "132ce71ed3e13bb6",
+    "heard": "하늘에 파란 물감을 칠한 것도 아닌데 왜 이런 일이 생길까요?",
+    "match": 1,
+    "verified": true
+  },
+  "k00-04": {
+    "src": "audio/sky-long-s2/k00-04.wav",
+    "duration": 3.54,
+    "hash": "132ce71ed3e13bb6",
+    "heard": "답은? 햇빛과 공기가 만나는 순간에 숨어있어요.",
+    "match": 1,
+    "verified": true
+  },
+  "k00-05": {
+    "src": "audio/sky-long-s2/k00-05.wav",
+    "duration": 4.26,
+    "hash": "132ce71ed3e13bb6",
+    "heard": "오늘은! 하늘의 색이 만들어지는 원리를 천천히 알아보겠습니다.",
+    "match": 1,
+    "verified": true
+  },
+  "k01-01": {
+    "src": "audio/sky-long-s2/k01-01.wav",
+    "duration": 2.76,
+    "hash": "f5204d95556c9fcf",
+    "heard": "먼저, 해피부터 살펴볼게요.",
+    "match": 0.82,
+    "verified": true
+  },
+  "k01-02": {
+    "src": "audio/sky-long-s2/k01-02.wav",
+    "duration": 5.42,
+    "hash": "f5204d95556c9fcf",
+    "heard": "햇빛은 하얗게 보이지만 사실 여러 가지 색의 빛이 섞여 있어요.",
+    "match": 1,
+    "verified": true
+  },
+  "k01-03": {
+    "src": "audio/sky-long-s2/k01-03.wav",
+    "duration": 5.5,
+    "hash": "f5204d95556c9fcf",
+    "heard": "프리즘의 햇빛을 통과시키면 말주노초판안보 무지개색으로 갈라지죠.",
+    "match": 0.86,
+    "verified": true
+  },
+  "k01-04": {
+    "src": "audio/sky-long-s2/k01-04.wav",
+    "duration": 5.88,
+    "hash": "f5204d95556c9fcf",
+    "heard": "빛은 물결처럼 움직이는데 물결사위의 간격을 '파장' 이라고 해요.",
+    "match": 0.96,
+    "verified": true
+  },
+  "k01-05": {
+    "src": "audio/sky-long-s2/k01-05.wav",
+    "duration": 5.24,
+    "hash": "f5204d95556c9fcf",
+    "heard": "빨간 빛은 파장이 길고 파란빛과 보랏빛은 파장이 짧아요.",
+    "match": 1,
+    "verified": true
+  },
+  "k01-06": {
+    "src": "audio/sky-long-s2/k01-06.wav",
+    "duration": 4.08,
+    "hash": "f5204d95556c9fcf",
+    "heard": "이 파장의 차이가 하늘의 색을 정하는 열쇠예요.",
+    "match": 1,
+    "verified": true
+  },
+  "k02-01": {
+    "src": "audio/sky-long-s2/k02-01.wav",
+    "duration": 5.32,
+    "hash": "11de2de88bf587b4",
+    "heard": "햇빛은 지구에 도착하기 전에 두꺼운 공기층을 지나와야 해요",
+    "match": 1,
+    "verified": true
+  },
+  "k02-02": {
+    "src": "audio/sky-long-s2/k02-02.wav",
+    "duration": 5.5,
+    "hash": "11de2de88bf587b4",
+    "heard": "- 공기는 질소와 산소 같은 아주 작은 분자들로 이루어져 있어요.",
+    "match": 1,
+    "verified": true
+  },
+  "k02-03": {
+    "src": "audio/sky-long-s2/k02-03.wav",
+    "duration": 5.12,
+    "hash": "11de2de88bf587b4",
+    "heard": "빛이 이 작은 분자들을 만나면 일부가 사방으로 튕겨 흩어져요.",
+    "match": 1,
+    "verified": true
+  },
+  "k02-04": {
+    "src": "audio/sky-long-s2/k02-04.wav",
+    "duration": 4.5,
+    "hash": "11de2de88bf587b4",
+    "heard": "이렇게. 빛이 여러 방향으로 흩어지는 것을 살란이라고 해요.",
+    "match": 0.96,
+    "verified": true
+  },
+  "k03-01": {
+    "src": "audio/sky-long-s2/k03-01.wav",
+    "duration": 3.64,
+    "hash": "4899ffba31b68bfc",
+    "heard": "그런데 모든 색이 똑같이 흩어지지는 않아요.",
+    "match": 1,
+    "verified": true
+  },
+  "k03-02": {
+    "src": "audio/sky-long-s2/k03-02.wav",
+    "duration": 6.52,
+    "hash": "4899ffba31b68bfc",
+    "heard": "공기분자처럼 아주 작은 알갱이에서는 파장이 짧은 빛일수록 훨씬 잘 흐터져요",
+    "match": 0.94,
+    "verified": true
+  },
+  "k03-03": {
+    "src": "audio/sky-long-s2/k03-03.wav",
+    "duration": 5.12,
+    "hash": "4899ffba31b68bfc",
+    "heard": "파장이 절반으로 짧아지면 흩어지는 정도는 무려 16배가 돼요.",
+    "match": 1,
+    "verified": true
+  },
+  "k03-04": {
+    "src": "audio/sky-long-s2/k03-04.wav",
+    "duration": 4.1,
+    "hash": "4899ffba31b68bfc",
+    "heard": "그래서 파란 빛은 빨간빛보다 5배 넘게 잘 흩어져요.",
+    "match": 0.91,
+    "verified": true
+  },
+  "k03-05": {
+    "src": "audio/sky-long-s2/k03-05.wav",
+    "duration": 4.84,
+    "hash": "4899ffba31b68bfc",
+    "heard": "이 현상을 처음 설명한 과학자의 이름을 따서 레일리 설란이라고 불러요",
+    "match": 0.97,
+    "verified": true
+  },
+  "k04-01": {
+    "src": "audio/sky-long-s2/k04-01.wav",
+    "duration": 2.98,
+    "hash": "36ba4f749fa4c3e1",
+    "heard": "이제 하늘을 올려다 볼 때를 생각해 볼게요.",
+    "match": 1,
+    "verified": true
+  },
+  "k04-02": {
+    "src": "audio/sky-long-s2/k04-02.wav",
+    "duration": 4.46,
+    "hash": "36ba4f749fa4c3e1",
+    "heard": "빨간 빛은 대부분 공기를 곧장 통과해서 지나가 버려요.",
+    "match": 1,
+    "verified": true
+  },
+  "k04-03": {
+    "src": "audio/sky-long-s2/k04-03.wav",
+    "duration": 3.94,
+    "hash": "36ba4f749fa4c3e1",
+    "heard": "반면 파란 빛은 하늘 곳곳에서 이리저리 흩어지죠.",
+    "match": 1,
+    "verified": true
+  },
+  "k04-04": {
+    "src": "audio/sky-long-s2/k04-04.wav",
+    "duration": 4.54,
+    "hash": "36ba4f749fa4c3e1",
+    "heard": "흩어진 파란빛이 하늘의 모든 방향에서 우리 눈으로 들어와요.",
+    "match": 1,
+    "verified": true
+  },
+  "k04-05": {
+    "src": "audio/sky-long-s2/k04-05.wav",
+    "duration": 4.32,
+    "hash": "36ba4f749fa4c3e1",
+    "heard": "그래서 해가 없는 쪽을 봐도 하늘 전체가 파락해 보이는 거예요.",
+    "match": 0.92,
+    "verified": true
+  },
+  "k05-01": {
+    "src": "audio/sky-long-s2/k05-01.wav",
+    "duration": 4.36,
+    "hash": "f78032cbe87e04d8",
+    "heard": "잠깐 보러빛은 파란빛보다 파장이 더 짧잖아요.",
+    "match": 0.95,
+    "verified": true
+  },
+  "k05-02": {
+    "src": "audio/sky-long-s2/k05-02.wav",
+    "duration": 3.02,
+    "hash": "f78032cbe87e04d8",
+    "heard": "그럼 하늘은 보라색이어야 하지 않을까요?",
+    "match": 1,
+    "verified": true
+  },
+  "k05-03": {
+    "src": "audio/sky-long-s2/k05-03.wav",
+    "duration": 4.72,
+    "hash": "f78032cbe87e04d8",
+    "heard": "첫째? 햇빛에는 원래 보랏빛이 파란빛보다 적게 들어있어요.",
+    "match": 1,
+    "verified": true
+  },
+  "k05-04": {
+    "src": "audio/sky-long-s2/k05-04.wav",
+    "duration": 4.32,
+    "hash": "f78032cbe87e04d8",
+    "heard": "둘째. 보랏빛의 일부는 대기 높은 곳에서 흡수돼 버려요.",
+    "match": 1,
+    "verified": true
+  },
+  "k05-05": {
+    "src": "audio/sky-long-s2/k05-05.wav",
+    "duration": 4.46,
+    "hash": "f78032cbe87e04d8",
+    "heard": "셋째. 우리 눈은 보라색보다 파란색을 훨씬 잘 느껴요.",
+    "match": 1,
+    "verified": true
+  },
+  "k05-06": {
+    "src": "audio/sky-long-s2/k05-06.wav",
+    "duration": 4.1,
+    "hash": "f78032cbe87e04d8",
+    "heard": "이 세 가지가 합쳐져서 우리 눈에는 하늘이 파랗게 보여요.",
+    "match": 1,
+    "verified": true
+  },
+  "k06-01": {
+    "src": "audio/sky-long-s2/k06-01.wav",
+    "duration": 1.98,
+    "hash": "3f5d3016d7702bc9",
+    "heard": "이제 노을 이야기를 해볼게요.",
+    "match": 1,
+    "verified": true
+  },
+  "k06-02": {
+    "src": "audio/sky-long-s2/k06-02.wav",
+    "duration": 5.54,
+    "hash": "3f5d3016d7702bc9",
+    "heard": "한낮에는 해가 머리 위에 있어서 햇빛이 짧은 거리에 공기만 지나와요.",
+    "match": 0.96,
+    "verified": true
+  },
+  "k06-03": {
+    "src": "audio/sky-long-s2/k06-03.wav",
+    "duration": 8.12,
+    "hash": "3f5d3016d7702bc9",
+    "heard": "하지만... 해가 집 평성 가까이 내려가면 햇빛은 공기층을 비스듬히 아주 길게 지나와야 해요.",
+    "match": 0.94,
+    "verified": true
+  },
+  "k06-04": {
+    "src": "audio/sky-long-s2/k06-04.wav",
+    "duration": 3.2,
+    "hash": "3f5d3016d7702bc9",
+    "heard": "그 거리는 한낮보다 수십 배나 길어요.",
+    "match": 1,
+    "verified": true
+  },
+  "k06-05": {
+    "src": "audio/sky-long-s2/k06-05.wav",
+    "duration": 5.42,
+    "hash": "3f5d3016d7702bc9",
+    "heard": "긴 길을 오는 동안 파란비츠는 중간에 다 흩어져서 사라져버려요.",
+    "match": 0.88,
+    "verified": true
+  },
+  "k06-06": {
+    "src": "audio/sky-long-s2/k06-06.wav",
+    "duration": 6.4,
+    "hash": "3f5d3016d7702bc9",
+    "heard": "끝까지 살아남아 우리 눈에 도착하는 건 잘 흐터지지 않는 주황빛과 빨간빛이에요.",
+    "match": 0.94,
+    "verified": true
+  },
+  "k06-07": {
+    "src": "audio/sky-long-s2/k06-07.wav",
+    "duration": 2.4,
+    "hash": "3f5d3016d7702bc9",
+    "heard": "그래서 노을은 붉게 물드는 거예요.",
+    "match": 1,
+    "verified": true
+  },
+  "k06-08": {
+    "src": "audio/sky-long-s2/k06-08.wav",
+    "duration": 6.14,
+    "hash": "3f5d3016d7702bc9",
+    "heard": "공기 중에 먼지나 작은 물방울이 많은 날에는 노을이 더 진하게 보이기도 해요.",
+    "match": 1,
+    "verified": true
+  },
+  "k07-01": {
+    "src": "audio/sky-long-s2/k07-01.wav",
+    "duration": 1.92,
+    "hash": "f27ece68a15209a9",
+    "heard": "그럼 구름은 왜 하야 할까요?",
+    "match": 0.8,
+    "verified": true
+  },
+  "k07-02": {
+    "src": "audio/sky-long-s2/k07-02.wav",
+    "duration": 5.56,
+    "hash": "f27ece68a15209a9",
+    "heard": "구름을 공기 분자보다 훨씬 큰 물방울과 \"오름알갱이로 되어있어요.\"",
+    "match": 0.89,
+    "verified": true
+  },
+  "k07-03": {
+    "src": "audio/sky-long-s2/k07-03.wav",
+    "duration": 3.9,
+    "hash": "f27ece68a15209a9",
+    "heard": "알갱이가 크면 모든 색의 빛을 거의 똑같이 흐터버려요.",
+    "match": 0.91,
+    "verified": true
+  },
+  "k07-04": {
+    "src": "audio/sky-long-s2/k07-04.wav",
+    "duration": 2.58,
+    "hash": "f27ece68a15209a9",
+    "heard": "모든 색이 골고루 섞이면 하얗게 보이죠?",
+    "match": 1,
+    "verified": true
+  },
+  "k07-05": {
+    "src": "audio/sky-long-s2/k07-05.wav",
+    "duration": 6.48,
+    "hash": "f27ece68a15209a9",
+    "heard": " 먹구름이 어두운 건 구름이 두꺼워서 햇빛이 아래까지 잘 뚫고 오지 못하기 때문이에요.",
+    "match": 1,
+    "verified": true
+  },
+  "k08-01": {
+    "src": "audio/sky-long-s2/k08-01.wav",
+    "duration": 2.14,
+    "hash": "40397ce27c3185b8",
+    "heard": "다른 행성의 하늘은 어떨까요?",
+    "match": 1,
+    "verified": true
+  },
+  "k08-02": {
+    "src": "audio/sky-long-s2/k08-02.wav",
+    "duration": 5.54,
+    "hash": "40397ce27c3185b8",
+    "heard": "화성은 공기가 아주였고 대신 고운 먼지가 많이 떠있어요.",
+    "match": 0.96,
+    "verified": true
+  },
+  "k08-03": {
+    "src": "audio/sky-long-s2/k08-03.wav",
+    "duration": 3.62,
+    "hash": "40397ce27c3185b8",
+    "heard": "그래서 화성의 나타늘은 누르수롬한 빛을 튀어요.",
+    "match": 0.75,
+    "verified": true
+  },
+  "k08-04": {
+    "src": "audio/sky-long-s2/k08-04.wav",
+    "duration": 4.14,
+    "hash": "40397ce27c3185b8",
+    "heard": "놀랍게도 화성의 노을은 오히려 푸르스룸하게 보여요",
+    "match": 0.95,
+    "verified": true
+  },
+  "k08-05": {
+    "src": "audio/sky-long-s2/k08-05.wav",
+    "duration": 6.36,
+    "hash": "40397ce27c3185b8",
+    "heard": "하늘의 색은 그 행성의 공기와 먼지가 빛을 어떻게 흩어놓느냐에 달려있는 거예요.",
+    "match": 1,
+    "verified": true
+  },
+  "k09-01": {
+    "src": "audio/sky-long-s2/k09-01.wav",
+    "duration": 3.38,
+    "hash": "e22a86c106296509",
+    "heard": "이 원리는 집에서도 직접 확인할 수 있어요.",
+    "match": 1,
+    "verified": true
+  },
+  "k09-02": {
+    "src": "audio/sky-long-s2/k09-02.wav",
+    "duration": 4.44,
+    "hash": "e22a86c106296509",
+    "heard": "투명한 컵에 물을 담고 우유를 몇 방울만 떨어뜨려 저어주세요.",
+    "match": 1,
+    "verified": true
+  },
+  "k09-03": {
+    "src": "audio/sky-long-s2/k09-03.wav",
+    "duration": 3.62,
+    "hash": "e22a86c106296509",
+    "heard": "어두운 방에서 컵 옆면에 손전등을 비쳐보세요.",
+    "match": 0.95,
+    "verified": true
+  },
+  "k09-04": {
+    "src": "audio/sky-long-s2/k09-04.wav",
+    "duration": 5.34,
+    "hash": "e22a86c106296509",
+    "heard": "옆에서 보면 물이 살짝 푸르스룸하게 보여요. 나타늘 것 같아요.",
+    "match": 0.84,
+    "verified": true
+  },
+  "k09-05": {
+    "src": "audio/sky-long-s2/k09-05.wav",
+    "duration": 6.32,
+    "hash": "e22a86c106296509",
+    "heard": "반대편에서 손전등 쪽을 바라보면 빛이 주황빛으로 보여요. 노을과 같은 원리죠.",
+    "match": 1,
+    "verified": true
+  },
+  "k10-01": {
+    "src": "audio/sky-long-s2/k10-01.wav",
+    "duration": 5.04,
+    "hash": "b0ac8cd62cc0d539",
+    "heard": "정리하면 파란비층 공기에 잘 흩어져서 하늘을 파랗게 칠하고",
+    "match": 0.92,
+    "verified": true
+  },
+  "k10-02": {
+    "src": "audio/sky-long-s2/k10-02.wav",
+    "duration": 5.74,
+    "hash": "b0ac8cd62cc0d539",
+    "heard": "해가 낮게 뜨면 파란빛은 흩어져 사라지고 남은 붉은 빛이 노호를 만들어요.",
+    "match": 0.93,
+    "verified": true
+  },
+  "k10-03": {
+    "src": "audio/sky-long-s2/k10-03.wav",
+    "duration": 4.96,
+    "hash": "b0ac8cd62cc0d539",
+    "heard": "오늘 저녁 노을을 보게 되면 멍기를 달려온 빛을 떠올려보세요.",
+    "match": 0.88,
+    "verified": true
+  },
+  "k10-04": {
+    "src": "audio/sky-long-s2/k10-04.wav",
+    "duration": 5.12,
+    "hash": "b0ac8cd62cc0d539",
+    "heard": "영상이 도움이 되었다면 구독과 좋아요 부탁드려요. 다음 영상에서 만나요.",
+    "match": 1,
+    "verified": true
+  }
+}

@@ -1,0 +1,26 @@
+{
+  "t1-01": {
+    "src": "audio/test-s2/t1-01.wav",
+    "duration": 2.36,
+    "hash": "6cb6c57be08f9747",
+    "heard": "에어컨 바람은 왜 차가울까요?",
+    "match": 1,
+    "verified": true
+  },
+  "t1-02": {
+    "src": "audio/test-s2/t1-02.wav",
+    "duration": 2.4,
+    "hash": "6cb6c57be08f9747",
+    "heard": "사실 에어컨은 냉기를 만들지 않아요.",
+    "match": 1,
+    "verified": true
+  },
+  "t1-03": {
+    "src": "audio/test-s2/t1-03.wav",
+    "duration": 2.62,
+    "hash": "6cb6c57be08f9747",
+    "heard": "방안웨어를 바깥으로 옮기는 기계예요.",
+    "match": 0.81,
+    "verified": true
+  }
+}

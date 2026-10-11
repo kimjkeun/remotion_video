@@ -1,0 +1,98 @@
+{
+  "s1-01": {
+    "src": "audio/shorts/s1-01.wav",
+    "duration": 2.54,
+    "hash": "c41f458d7d8163a7",
+    "heard": "에어컨 바람은 왜 차가울까요?",
+    "match": 1,
+    "verified": true
+  },
+  "s1-02": {
+    "src": "audio/shorts/s1-02.wav",
+    "duration": 3.76,
+    "hash": "c41f458d7d8163a7",
+    "heard": "사실 에어컨은 냉기를 만들지 않아요.",
+    "match": 1,
+    "verified": true
+  },
+  "s1-03": {
+    "src": "audio/shorts/s1-03.wav",
+    "duration": 3.5,
+    "hash": "c41f458d7d8163a7",
+    "heard": "방안의 열을 바깥으로 옮기는 기계예요.",
+    "match": 1,
+    "verified": true
+  },
+  "s2-01": {
+    "src": "audio/shorts/s2-01.wav",
+    "duration": 4.78,
+    "hash": "9b687b573e4ec3b9",
+    "heard": "그런데요, 열은 뜨거운 곳에서 차가운 곳으로만 흘러요.",
+    "match": 0.95,
+    "verified": true
+  },
+  "s2-02": {
+    "src": "audio/shorts/s2-02.wav",
+    "duration": 4.88,
+    "hash": "9b687b573e4ec3b9",
+    "heard": " 여름은 바깥이 더 뜨거운데 어떻게 열을 내분할까요?",
+    "match": 0.86,
+    "verified": true
+  },
+  "s2-03": {
+    "src": "audio/shorts/s2-03.wav",
+    "duration": 1.84,
+    "hash": "9b687b573e4ec3b9",
+    "heard": "비밀은 바로 냉메이예요.",
+    "match": 0.78,
+    "verified": true
+  },
+  "s3-01": {
+    "src": "audio/shorts/s3-01.wav",
+    "duration": 5.02,
+    "hash": "6a7e6f7c09b7ea79",
+    "heard": "실내기에서는 5도의 차가운 냉메가 방에 열을 흡수해요.",
+    "match": 0.91,
+    "verified": true
+  },
+  "s3-02": {
+    "src": "audio/shorts/s3-02.wav",
+    "duration": 4.62,
+    "hash": "6a7e6f7c09b7ea79",
+    "heard": "압축기가 냉면을 꾹 눌러서 70도로 뜨겁게 만들고",
+    "match": 0.9,
+    "verified": true
+  },
+  "s3-03": {
+    "src": "audio/shorts/s3-03.wav",
+    "duration": 2.74,
+    "hash": "6a7e6f7c09b7ea79",
+    "heard": "실외기에서 그 열을 바깥에 버려요.",
+    "match": 1,
+    "verified": true
+  },
+  "s3-04": {
+    "src": "audio/shorts/s3-04.wav",
+    "duration": 3.84,
+    "hash": "6a7e6f7c09b7ea79",
+    "heard": "팽창밸부를 지나면 냉면은 다시 차갑게 식어요.",
+    "match": 0.84,
+    "verified": true
+  },
+  "s4-01": {
+    "src": "audio/shorts/s4-01.wav",
+    "duration": 4.8,
+    "hash": "5a1752cee68a1030",
+    "heard": "이 순환을 쉬지 않고 반복하는 거 그게 에어컨의 원리예요.",
+    "match": 0.96,
+    "verified": true
+  },
+  "s4-02": {
+    "src": "audio/shorts/s4-02.wav",
+    "duration": 3.42,
+    "hash": "5a1752cee68a1030",
+    "heard": "더 자세한 이야기는 롱폼 영상에서 확인해 보세요.",
+    "match": 1,
+    "verified": true
+  }
+}

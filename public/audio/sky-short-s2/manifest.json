@@ -1,0 +1,82 @@
+{
+  "q1-01": {
+    "src": "audio/sky-short-s2/q1-01.wav",
+    "duration": 3.8,
+    "hash": "736fbea89de8073a",
+    "heard": "하늘은 왜 파라코, 노을은 왜 빨갈까요?",
+    "match": 0.87,
+    "verified": true
+  },
+  "q1-02": {
+    "src": "audio/sky-short-s2/q1-02.wav",
+    "duration": 3.1,
+    "hash": "736fbea89de8073a",
+    "heard": "햇빛에는 여러 색의 빛이 섞여 있어요.",
+    "match": 1,
+    "verified": true
+  },
+  "q1-03": {
+    "src": "audio/sky-short-s2/q1-03.wav",
+    "duration": 3.8,
+    "hash": "736fbea89de8073a",
+    "heard": "이 빛이 공기를 만나면 사방으로 흩어지는데",
+    "match": 1,
+    "verified": true
+  },
+  "q2-01": {
+    "src": "audio/sky-short-s2/q2-01.wav",
+    "duration": 5.2,
+    "hash": "0c15ad248f3cc50b",
+    "heard": "파장이 짧은 파란빛이 빨간빛보다 5배 넘게 잘 흐터져요.",
+    "match": 0.83,
+    "verified": true
+  },
+  "q2-02": {
+    "src": "audio/sky-short-s2/q2-02.wav",
+    "duration": 5.24,
+    "hash": "0c15ad248f3cc50b",
+    "heard": "흩어진 파란 빛이 하늘 곳곳에서 눈으로 들어와서 하늘이 파락해보여요",
+    "match": 0.93,
+    "verified": true
+  },
+  "q3-01": {
+    "src": "audio/sky-short-s2/q3-01.wav",
+    "duration": 6.12,
+    "hash": "92cacad13ce0ea60",
+    "heard": "그런데 해가 지면 햇빛이 지나야 할 공기 길이가 수십 배로 길어져요.",
+    "match": 1,
+    "verified": true
+  },
+  "q3-02": {
+    "src": "audio/sky-short-s2/q3-02.wav",
+    "duration": 3.18,
+    "hash": "92cacad13ce0ea60",
+    "heard": "파란비츠는 오는 길에 다 흩어져 사라지고",
+    "match": 0.81,
+    "verified": true
+  },
+  "q3-03": {
+    "src": "audio/sky-short-s2/q3-03.wav",
+    "duration": 3.82,
+    "hash": "92cacad13ce0ea60",
+    "heard": "끝까지 남은 주황빛과 빨간빛이 노을을 만들어요.",
+    "match": 1,
+    "verified": true
+  },
+  "q4-01": {
+    "src": "audio/sky-short-s2/q4-01.wav",
+    "duration": 4.3,
+    "hash": "19bf76e35df36cb4",
+    "heard": "같은 햇빛 다른 길이 그게 하늘색의 비밀이에요.",
+    "match": 1,
+    "verified": true
+  },
+  "q4-02": {
+    "src": "audio/sky-short-s2/q4-02.wav",
+    "duration": 3.56,
+    "hash": "19bf76e35df36cb4",
+    "heard": "더 자세한 이야기는 롱폼 영상에서 확인해 보세요.",
+    "match": 1,
+    "verified": true
+  }
+}

@@ -5,3 +5,10 @@ dist
 
 # Ignore the output video from Git but not videos you import into src/.
 out
+
+# TTS 전체 음성 보관 (자르기 전)
+tts-cache
+whisper.cpp
+
+# 번호에서 빠진 이전 TTS 스타일 음성 보관
+audio-archive

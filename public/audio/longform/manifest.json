@@ -1,0 +1,666 @@
+{
+  "c00-01": {
+    "src": "audio/longform/c00-01.wav",
+    "duration": 4.98,
+    "hash": "d17205362d9be353",
+    "heard": "무더운 여름날 에어컨을 켜면 금세 시원한 바람이 나오죠.",
+    "match": 1,
+    "verified": true
+  },
+  "c00-02": {
+    "src": "audio/longform/c00-02.wav",
+    "duration": 5.22,
+    "hash": "d17205362d9be353",
+    "heard": "그런데... 에어컨은 도대체 어떻게 차가운 바람을 만들어낼까요?",
+    "match": 1,
+    "verified": true
+  },
+  "c00-03": {
+    "src": "audio/longform/c00-03.wav",
+    "duration": 5.88,
+    "hash": "d17205362d9be353",
+    "heard": "얼음을 넣어두는 것도 아니고 차가운 공기를 어디서 가져오는 것도 아닌데 말이에요?",
+    "match": 1,
+    "verified": true
+  },
+  "c00-04": {
+    "src": "audio/longform/c00-04.wav",
+    "duration": 4.06,
+    "hash": "d17205362d9be353",
+    "heard": "놀랍게도 에어컨은 냉기를 만들지 않아요.",
+    "match": 1,
+    "verified": true
+  },
+  "c00-05": {
+    "src": "audio/longform/c00-05.wav",
+    "duration": 4.28,
+    "hash": "d17205362d9be353",
+    "heard": "에어컨이 하는 일은 방안의 열을 바깥으로 옮기는 거예요.",
+    "match": 1,
+    "verified": true
+  },
+  "c00-06": {
+    "src": "audio/longform/c00-06.wav",
+    "duration": 3.74,
+    "hash": "d17205362d9be353",
+    "heard": "오늘은 그 원리를 하나씩 천천히 알아보겠습니다.",
+    "match": 1,
+    "verified": true
+  },
+  "c01-01": {
+    "src": "audio/longform/c01-01.wav",
+    "duration": 2.98,
+    "hash": "d94621e1113918c7",
+    "heard": "먼저 꼭 알아야 할 규칙이 하나 있어요.",
+    "match": 1,
+    "verified": true
+  },
+  "c01-02": {
+    "src": "audio/longform/c01-02.wav",
+    "duration": 4.12,
+    "hash": "d94621e1113918c7",
+    "heard": "여른 언제나 뜨거운 곳에서 차가운 곳으로만 흘러요.",
+    "match": 0.9,
+    "verified": true
+  },
+  "c01-03": {
+    "src": "audio/longform/c01-03.wav",
+    "duration": 5.24,
+    "hash": "d94621e1113918c7",
+    "heard": "뜨거운 코코아를 그냥 두면 점점 식고 얼음은 점점 녹죠?",
+    "match": 1,
+    "verified": true
+  },
+  "c01-04": {
+    "src": "audio/longform/c01-04.wav",
+    "duration": 6.04,
+    "hash": "d94621e1113918c7",
+    "heard": "코코와의 열은 주변 공기로 주변 공기의 열은 얼음으로 옮겨가기 때문이에요.",
+    "match": 0.97,
+    "verified": true
+  },
+  "c01-05": {
+    "src": "audio/longform/c01-05.wav",
+    "duration": 5.04,
+    "hash": "d94621e1113918c7",
+    "heard": "반대로 열이 저절로 차가운 곳에서 뜨거운 곳으로 흐르는 일은 없어요.",
+    "match": 1,
+    "verified": true
+  },
+  "c02-01": {
+    "src": "audio/longform/c02-01.wav",
+    "duration": 2.18,
+    "hash": "2dda8a91d7ab100a",
+    "heard": "그런데... 여름을 떠올려보세요",
+    "match": 1,
+    "verified": true
+  },
+  "c02-02": {
+    "src": "audio/longform/c02-02.wav",
+    "duration": 4.84,
+    "hash": "2dda8a91d7ab100a",
+    "heard": "방안이 30도라면 바깥은 35도가 넘을 때도 많아요.",
+    "match": 1,
+    "verified": true
+  },
+  "c02-03": {
+    "src": "audio/longform/c02-03.wav",
+    "duration": 3.88,
+    "hash": "2dda8a91d7ab100a",
+    "heard": "여른. 뜨거운 곳에서 차가운 곳으로만 흐른다고 했죠?",
+    "match": 0.9,
+    "verified": true
+  },
+  "c02-04": {
+    "src": "audio/longform/c02-04.wav",
+    "duration": 5.76,
+    "hash": "2dda8a91d7ab100a",
+    "heard": "그럼... 방안의 열을 더 뜨거운 바깥으로 어떻게 내보낼 수 있을까요?",
+    "match": 1,
+    "verified": true
+  },
+  "c02-05": {
+    "src": "audio/longform/c02-05.wav",
+    "duration": 6.02,
+    "hash": "2dda8a91d7ab100a",
+    "heard": "물에 비유해 볼게요. 물은 원래 높은 곳에서 낮은 곳으로만 흘러요.",
+    "match": 1,
+    "verified": true
+  },
+  "c02-06": {
+    "src": "audio/longform/c02-06.wav",
+    "duration": 5.48,
+    "hash": "2dda8a91d7ab100a",
+    "heard": "하지만 폼플을 쓰면 물을 낮은 곳에서 높은 곳으로 퍼올릴 수 있죠.",
+    "match": 0.88,
+    "verified": true
+  },
+  "c02-07": {
+    "src": "audio/longform/c02-07.wav",
+    "duration": 5.76,
+    "hash": "2dda8a91d7ab100a",
+    "heard": "에어컨은 바로 열을 퍼 올리는 펌프 치우! 열 펌프에요",
+    "match": 0.85,
+    "verified": true
+  },
+  "c02-08": {
+    "src": "audio/longform/c02-08.wav",
+    "duration": 4.18,
+    "hash": "2dda8a91d7ab100a",
+    "heard": "그리고... 이 일을 해내는 주인공이 바로 냉메입니다",
+    "match": 0.95,
+    "verified": true
+  },
+  "c03-01": {
+    "src": "audio/longform/c03-01.wav",
+    "duration": 3.84,
+    "hash": "f4fb5e26aa6c0e5b",
+    "heard": "냉매를 이해하려면 손 소독제를 떠올려보면 좋아요.",
+    "match": 1,
+    "verified": true
+  },
+  "c03-02": {
+    "src": "audio/longform/c03-02.wav",
+    "duration": 2.96,
+    "hash": "f4fb5e26aa6c0e5b",
+    "heard": "손 소독제를 바르면 손이 시원해지죠.",
+    "match": 1,
+    "verified": true
+  },
+  "c03-03": {
+    "src": "audio/longform/c03-03.wav",
+    "duration": 6.42,
+    "hash": "f4fb5e26aa6c0e5b",
+    "heard": " 알코올이 액체에서 기체로 날아가면서 손에 열을 빼앗아가기 때문이에요.",
+    "match": 0.97,
+    "verified": true
+  },
+  "c03-04": {
+    "src": "audio/longform/c03-04.wav",
+    "duration": 7.66,
+    "hash": "f4fb5e26aa6c0e5b",
+    "heard": "이렇게... 액체가 기체로 변하는 걸 증발이라고 하는데 증발할 때는 주변의 열을 빼야 사요.",
+    "match": 0.94,
+    "verified": true
+  },
+  "c03-05": {
+    "src": "audio/longform/c03-05.wav",
+    "duration": 3.58,
+    "hash": "f4fb5e26aa6c0e5b",
+    "heard": "여름에 땀이 마를 때 시원한 것도 같은 원리예요.",
+    "match": 1,
+    "verified": true
+  },
+  "c03-06": {
+    "src": "audio/longform/c03-06.wav",
+    "duration": 5.84,
+    "hash": "f4fb5e26aa6c0e5b",
+    "heard": " 반대로... 기체가 다시 액체로 변할 때는 품고 있던 열을 내놓아요.",
+    "match": 1,
+    "verified": true
+  },
+  "c03-07": {
+    "src": "audio/longform/c03-07.wav",
+    "duration": 6.34,
+    "hash": "f4fb5e26aa6c0e5b",
+    "heard": "열을 빼앗고 내놓고 에어컨은 이 두 가지를 번갈아 이용해요.",
+    "match": 1,
+    "verified": true
+  },
+  "c04-01": {
+    "src": "audio/longform/c04-01.wav",
+    "duration": 3.66,
+    "hash": "31720db8647a82db",
+    "heard": "그런데... 물은 100도가 되어야 끌잖아요.",
+    "match": 0.93,
+    "verified": true
+  },
+  "c04-02": {
+    "src": "audio/longform/c04-02.wav",
+    "duration": 4.12,
+    "hash": "31720db8647a82db",
+    "heard": "방안의 30도 공기로는 물을 끌게 할 수 없어요.",
+    "match": 0.94,
+    "verified": true
+  },
+  "c04-03": {
+    "src": "audio/longform/c04-03.wav",
+    "duration": 7.02,
+    "hash": "31720db8647a82db",
+    "heard": "그래서 에어컨에는 아주 낮은 온도에서도 끓는 특별한 물질. 냉매가 들어있어요.",
+    "match": 1,
+    "verified": true
+  },
+  "c04-04": {
+    "src": "audio/longform/c04-04.wav",
+    "duration": 5.94,
+    "hash": "31720db8647a82db",
+    "heard": "에어콘에 많이 쓰이는 냉면은 보통의 압력에서 영하 50도쯤이면 끌어요.",
+    "match": 0.86,
+    "verified": true
+  },
+  "c04-05": {
+    "src": "audio/longform/c04-05.wav",
+    "duration": 7.38,
+    "hash": "31720db8647a82db",
+    "heard": "또 하나 중요한 성질이 있어요. 압력이 높으면 잘 끌지 않고 압력이 낮으면 쉽게 끌어요.",
+    "match": 0.94,
+    "verified": true
+  },
+  "c04-06": {
+    "src": "audio/longform/c04-06.wav",
+    "duration": 6.2,
+    "hash": "31720db8647a82db",
+    "heard": "압력소치 그 예예요. 압력을 높이면 물이 100도가 넘어도 끌지 않아요.",
+    "match": 0.89,
+    "verified": true
+  },
+  "c04-07": {
+    "src": "audio/longform/c04-07.wav",
+    "duration": 6.52,
+    "hash": "31720db8647a82db",
+    "heard": "에어컨은 이 압력을 조절해서 냉메가 끓을 곳과 다시 액체가 될 곳을 정해요.",
+    "match": 0.97,
+    "verified": true
+  },
+  "c05-01": {
+    "src": "audio/longform/c05-01.wav",
+    "duration": 2.8,
+    "hash": "33cab302f2fb0091",
+    "heard": "이제... 에어컨 속을 들여다 볼게요.",
+    "match": 1,
+    "verified": true
+  },
+  "c05-02": {
+    "src": "audio/longform/c05-02.wav",
+    "duration": 6.9,
+    "hash": "33cab302f2fb0091",
+    "heard": "에어컨은 방안의 실내기와 바깥의 실외기 그리고 둘을 잊는 구리 배관으로 되어 있어요.",
+    "match": 0.97,
+    "verified": true
+  },
+  "c05-03": {
+    "src": "audio/longform/c05-03.wav",
+    "duration": 3.94,
+    "hash": "33cab302f2fb0091",
+    "heard": "냉면은 이 배관을 따라 쉬지 않고 빙글빙글 돌아요.",
+    "match": 0.9,
+    "verified": true
+  },
+  "c05-04": {
+    "src": "audio/longform/c05-04.wav",
+    "duration": 7.42,
+    "hash": "33cab302f2fb0091",
+    "heard": "중요한 부품은 4가지에요. 신레기 앞축기 실외기 그리고 팽창벨브",
+    "match": 0.78,
+    "verified": true
+  },
+  "c05-05": {
+    "src": "audio/longform/c05-05.wav",
+    "duration": 1.86,
+    "hash": "33cab302f2fb0091",
+    "heard": "첫 번째, 실내기예요.",
+    "match": 1,
+    "verified": true
+  },
+  "c05-06": {
+    "src": "audio/longform/c05-06.wav",
+    "duration": 5.16,
+    "hash": "33cab302f2fb0091",
+    "heard": "실내기 속 냉메는 약 5도로 방 공기보다 훨씬 차가워요.",
+    "match": 0.95,
+    "verified": true
+  },
+  "c05-07": {
+    "src": "audio/longform/c05-07.wav",
+    "duration": 5.8,
+    "hash": "33cab302f2fb0091",
+    "heard": "팬이 방해 따뜻한 공기를 빨아들여 차가운 배관 사이로 지나가게 해요",
+    "match": 0.96,
+    "verified": true
+  },
+  "c05-08": {
+    "src": "audio/longform/c05-08.wav",
+    "duration": 6.4,
+    "hash": "33cab302f2fb0091",
+    "heard": "공기의 열은 차가운 냉멜로 옮겨가고 열을 받은 냉면은 끓어서 기체가 돼요",
+    "match": 0.9,
+    "verified": true
+  },
+  "c05-09": {
+    "src": "audio/longform/c05-09.wav",
+    "duration": 6.12,
+    "hash": "33cab302f2fb0091",
+    "heard": "열을 빼앗긴 공기는 차가워져서 다시 방으로 나와요. 이게 바로 에어컨 바람이에요.",
+    "match": 1,
+    "verified": true
+  },
+  "c05-10": {
+    "src": "audio/longform/c05-10.wav",
+    "duration": 2.06,
+    "hash": "33cab302f2fb0091",
+    "heard": "두 번째? 압축기예요.",
+    "match": 1,
+    "verified": true
+  },
+  "c05-11": {
+    "src": "audio/longform/c05-11.wav",
+    "duration": 6.42,
+    "hash": "40eb4aa20589d571",
+    "heard": "기체가 된 냉맨은 아직 바깥보다 차가워서 이대로는 열을 버릴 수가 없어요.",
+    "match": 0.93,
+    "verified": true
+  },
+  "c05-12": {
+    "src": "audio/longform/c05-12.wav",
+    "duration": 5.34,
+    "hash": "40eb4aa20589d571",
+    "heard": "그래서 압축기가 냉내 기체를 꾹 눌러서 압력을 높여요.",
+    "match": 0.95,
+    "verified": true
+  },
+  "c05-13": {
+    "src": "audio/longform/c05-13.wav",
+    "duration": 6.42,
+    "hash": "40eb4aa20589d571",
+    "heard": "자전거 펌프로 바람을 넣으면 펌프가 뜨거워지는 것 처럼 눌린 기체는 뜨거워져요.",
+    "match": 1,
+    "verified": true
+  },
+  "c05-14": {
+    "src": "audio/longform/c05-14.wav",
+    "duration": 5.66,
+    "hash": "40eb4aa20589d571",
+    "heard": "냉매의 온도는 70도 가까이 올라가요. 이제 바깥보다 훨씬 뜨겁죠?",
+    "match": 1,
+    "verified": true
+  },
+  "c05-15": {
+    "src": "audio/longform/c05-15.wav",
+    "duration": 2.06,
+    "hash": "40eb4aa20589d571",
+    "heard": "세 번째 실외기예요",
+    "match": 1,
+    "verified": true
+  },
+  "c05-16": {
+    "src": "audio/longform/c05-16.wav",
+    "duration": 5.36,
+    "hash": "40eb4aa20589d571",
+    "heard": "뜨거운 냉메가 시력이 배관을 지나는 동안 팬이 바깥 공기를 불어줘요.",
+    "match": 0.86,
+    "verified": true
+  },
+  "c05-17": {
+    "src": "audio/longform/c05-17.wav",
+    "duration": 6.02,
+    "hash": "40eb4aa20589d571",
+    "heard": "냉메가 바깥 공기보다 뜨거우니 이번에는 열이 냉면에서 바깥으로 빠져나가요.",
+    "match": 0.94,
+    "verified": true
+  },
+  "c05-18": {
+    "src": "audio/longform/c05-18.wav",
+    "duration": 2.9,
+    "hash": "40eb4aa20589d571",
+    "heard": "열을 내놓은 냉면은 다시 액체로 돌아와요.",
+    "match": 0.88,
+    "verified": true
+  },
+  "c05-19": {
+    "src": "audio/longform/c05-19.wav",
+    "duration": 6.16,
+    "hash": "40eb4aa20589d571",
+    "heard": "실외기 앞에 서면 뜨거운 바람이 나오는 이유가 바로 이거예요. 방에서 가져온 열이거든요.",
+    "match": 1,
+    "verified": true
+  },
+  "c05-20": {
+    "src": "audio/longform/c05-20.wav",
+    "duration": 2.12,
+    "hash": "40eb4aa20589d571",
+    "heard": "4번째 탱창밸브예요.",
+    "match": 0.78,
+    "verified": true
+  },
+  "c05-21": {
+    "src": "audio/longform/c05-21.wav",
+    "duration": 5.58,
+    "hash": "445c4c4fa13099e9",
+    "heard": "액체 냉면은 아주 좁은 구멍을 지나면서 압력이 확 낮아져요.",
+    "match": 0.92,
+    "verified": true
+  },
+  "c05-22": {
+    "src": "audio/longform/c05-22.wav",
+    "duration": 4.14,
+    "hash": "445c4c4fa13099e9",
+    "heard": "압력이 낮아지면 냉면에 온도도 뚝 떨어져요.",
+    "match": 0.89,
+    "verified": true
+  },
+  "c05-23": {
+    "src": "audio/longform/c05-23.wav",
+    "duration": 5.36,
+    "hash": "445c4c4fa13099e9",
+    "heard": " 스프레이를 오래 뿌리면 캔이 차가워지는 것과 비슷한 원리예요.",
+    "match": 1,
+    "verified": true
+  },
+  "c05-24": {
+    "src": "audio/longform/c05-24.wav",
+    "duration": 6.12,
+    "hash": "445c4c4fa13099e9",
+    "heard": "다시 차가워진 냉면은 실내기로 돌아가서 처음부터 같은 일을 반복해요.",
+    "match": 0.93,
+    "verified": true
+  },
+  "c06-01": {
+    "src": "audio/longform/c06-01.wav",
+    "duration": 1.14,
+    "hash": "ebdac6aec602a2e4",
+    "heard": "정리해 볼게요.",
+    "match": 1,
+    "verified": true
+  },
+  "c06-02": {
+    "src": "audio/longform/c06-02.wav",
+    "duration": 3.44,
+    "hash": "ebdac6aec602a2e4",
+    "heard": "실내기에서 냉매가 끓으며 방에 열을 빼앗고",
+    "match": 0.94,
+    "verified": true
+  },
+  "c06-03": {
+    "src": "audio/longform/c06-03.wav",
+    "duration": 2.6,
+    "hash": "ebdac6aec602a2e4",
+    "heard": "압축기가 냉멸을 뜨겁게 만들고",
+    "match": 0.85,
+    "verified": true
+  },
+  "c06-04": {
+    "src": "audio/longform/c06-04.wav",
+    "duration": 2.24,
+    "hash": "ebdac6aec602a2e4",
+    "heard": "실외기에서 그 열을 바깥에 버리고",
+    "match": 1,
+    "verified": true
+  },
+  "c06-05": {
+    "src": "audio/longform/c06-05.wav",
+    "duration": 2.82,
+    "hash": "ebdac6aec602a2e4",
+    "heard": "탱창 벨브에서 다시 차갑게 만들어요.",
+    "match": 0.87,
+    "verified": true
+  },
+  "c06-06": {
+    "src": "audio/longform/c06-06.wav",
+    "duration": 5.02,
+    "hash": "ebdac6aec602a2e4",
+    "heard": "이 순환을 계속 반복하면서 방의 열을 바깥으로 퍼 나르는 거예요.",
+    "match": 1,
+    "verified": true
+  },
+  "c07-01": {
+    "src": "audio/longform/c07-01.wav",
+    "duration": 3.12,
+    "hash": "25151bda106cb9b9",
+    "heard": "에어컨에서 물이 떨어지는 걸 본 적 있나요?",
+    "match": 1,
+    "verified": true
+  },
+  "c07-02": {
+    "src": "audio/longform/c07-02.wav",
+    "duration": 5.76,
+    "hash": "25151bda106cb9b9",
+    "heard": " 얼음물을 담은 컵 바깥에 물방울이 매치는 것과 같은 현상이에요.",
+    "match": 0.92,
+    "verified": true
+  },
+  "c07-03": {
+    "src": "audio/longform/c07-03.wav",
+    "duration": 3.88,
+    "hash": "25151bda106cb9b9",
+    "heard": "공기 속에는 눈에 보이지 않는 수준기가 섞여 있어요.",
+    "match": 0.95,
+    "verified": true
+  },
+  "c07-04": {
+    "src": "audio/longform/c07-04.wav",
+    "duration": 4.92,
+    "hash": "25151bda106cb9b9",
+    "heard": "이 수증기가 차가운 실내기 100원에 닿으면 물방울로 바뀌어요.",
+    "match": 0.92,
+    "verified": true
+  },
+  "c07-05": {
+    "src": "audio/longform/c07-05.wav",
+    "duration": 6.18,
+    "hash": "25151bda106cb9b9",
+    "heard": "그래서 에어컨을 켜면 방이 시원해질 뿐만 아니라 습기도 줄어들어 뽀송해져요",
+    "match": 1,
+    "verified": true
+  },
+  "c07-06": {
+    "src": "audio/longform/c07-06.wav",
+    "duration": 3.64,
+    "hash": "25151bda106cb9b9",
+    "heard": "모인 물은 배소호스를 따라 바깥으로 빠져나가요.",
+    "match": 0.95,
+    "verified": true
+  },
+  "c08-01": {
+    "src": "audio/longform/c08-01.wav",
+    "duration": 3.26,
+    "hash": "60ef748b88a95f42",
+    "heard": "이 원리는 에어컨에만 쓰이지 않아요.",
+    "match": 1,
+    "verified": true
+  },
+  "c08-02": {
+    "src": "audio/longform/c08-02.wav",
+    "duration": 5.48,
+    "hash": "60ef748b88a95f42",
+    "heard": "냉장고도 똑같아요. 냉장고 안에 열을 빼내서 바깥으로 버리죠.",
+    "match": 0.96,
+    "verified": true
+  },
+  "c08-03": {
+    "src": "audio/longform/c08-03.wav",
+    "duration": 5.94,
+    "hash": "60ef748b88a95f42",
+    "heard": "냉장고 뒤쪽이나 옆면이 따뜻한 건 안에서 빼낸 열이 나오기 때문이에요.",
+    "match": 1,
+    "verified": true
+  },
+  "c08-04": {
+    "src": "audio/longform/c08-04.wav",
+    "duration": 7.54,
+    "hash": "60ef748b88a95f42",
+    "heard": "냉남방기는 냉메가 흐르는 방향을 거꾸로 바꿔서 겨울에는 바깥에 열을 방 안으로 가져와요.",
+    "match": 0.92,
+    "verified": true
+  },
+  "c08-05": {
+    "src": "audio/longform/c08-05.wav",
+    "duration": 5.94,
+    "hash": "60ef748b88a95f42",
+    "heard": "추운 겨울 공기에도 열은 남아 있어서 그 열을 퍼올려 남방을 하는 거예요.",
+    "match": 0.97,
+    "verified": true
+  },
+  "c09-01": {
+    "src": "audio/longform/c09-01.wav",
+    "duration": 5.26,
+    "hash": "b9f570952a22a2da",
+    "heard": "마지막으로 원리를 알면 에어컨을 더 똑똑하게 쓸 수 있어요.",
+    "match": 1,
+    "verified": true
+  },
+  "c09-02": {
+    "src": "audio/longform/c09-02.wav",
+    "duration": 8.98,
+    "hash": "b9f570952a22a2da",
+    "heard": "첫째, 희망 온도는 26도 정도가 적당해요. 바깥과 온도 차이가 클수록 펀 알라야 할 열이 많아지거든요.",
+    "match": 0.95,
+    "verified": true
+  },
+  "c09-03": {
+    "src": "audio/longform/c09-03.wav",
+    "duration": 8.66,
+    "hash": "b9f570952a22a2da",
+    "heard": "둘째 필터를 깨끗하게 청소해 주세요. 먼지가 쌓이면 공기가 잘 지나가지 못해 열을 덜 빼서 사요",
+    "match": 0.95,
+    "verified": true
+  },
+  "c09-04": {
+    "src": "audio/longform/c09-04.wav",
+    "duration": 7.22,
+    "hash": "b9f570952a22a2da",
+    "heard": "셋째 실외기 주변을 막지 마세요. 열을 버리는 곳이 막히면 에어컨이 훨씬 힘들어져요.",
+    "match": 1,
+    "verified": true
+  },
+  "c09-05": {
+    "src": "audio/longform/c09-05.wav",
+    "duration": 4.28,
+    "hash": "b9f570952a22a2da",
+    "heard": "실외기에 햇빛 가리기를 해주면 열을 더 잘 버릴 수 있어요.",
+    "match": 0.96,
+    "verified": true
+  },
+  "c09-06": {
+    "src": "audio/longform/c09-06.wav",
+    "duration": 4.92,
+    "hash": "b9f570952a22a2da",
+    "heard": "이렇게만 해도 전기요금을 아끼면서 더 시원하게 지낼 수 있어요.",
+    "match": 1,
+    "verified": true
+  },
+  "c10-01": {
+    "src": "audio/longform/c10-01.wav",
+    "duration": 7.84,
+    "hash": "07d2bae2bb6a4d67",
+    "heard": "오늘 내용을 한 문장으로 정리하면 에어컨은 냉기를 만드는 기계가 아니라 열을 옮기는 기계예요.",
+    "match": 1,
+    "verified": true
+  },
+  "c10-02": {
+    "src": "audio/longform/c10-02.wav",
+    "duration": 6.6,
+    "hash": "07d2bae2bb6a4d67",
+    "heard": "다음에 에어컨 바람을 쓸 때 바깥 실외기에서 열심히 열을 벌이고 있는 모습을 떠올려보세요.",
+    "match": 0.92,
+    "verified": true
+  },
+  "c10-03": {
+    "src": "audio/longform/c10-03.wav",
+    "duration": 6.2,
+    "hash": "07d2bae2bb6a4d67",
+    "heard": " 영상이 도움이 되었다면 '구독'과 '좋아요' 부탁드려요. 다음 영상에서 만나요!",
+    "match": 1,
+    "verified": true
+  }
+}

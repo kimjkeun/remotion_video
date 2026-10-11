@@ -1,0 +1,119 @@
+[
+  {
+    "File": "blue_sky.png",
+    "Width": 1024,
+    "Height": 1024,
+    "AlphaMin": 255,
+    "AlphaMax": 255,
+    "TransparentPixels": 0,
+    "PartialPixels": 0
+  },
+  {
+    "File": "cloud_dark.png",
+    "Width": 1024,
+    "Height": 1024,
+    "AlphaMin": 0,
+    "AlphaMax": 255,
+    "TransparentPixels": 782228,
+    "PartialPixels": 264744
+  },
+  {
+    "File": "cloud_white.png",
+    "Width": 1024,
+    "Height": 1024,
+    "AlphaMin": 0,
+    "AlphaMax": 255,
+    "TransparentPixels": 777305,
+    "PartialPixels": 269747
+  },
+  {
+    "File": "earth_atmosphere.png",
+    "Width": 1024,
+    "Height": 1024,
+    "AlphaMin": 0,
+    "AlphaMax": 254,
+    "TransparentPixels": 609364,
+    "PartialPixels": 439212
+  },
+  {
+    "File": "flashlight.png",
+    "Width": 1024,
+    "Height": 1024,
+    "AlphaMin": 0,
+    "AlphaMax": 255,
+    "TransparentPixels": 901161,
+    "PartialPixels": 146511
+  },
+  {
+    "File": "mars.png",
+    "Width": 1024,
+    "Height": 1024,
+    "AlphaMin": 0,
+    "AlphaMax": 254,
+    "TransparentPixels": 647500,
+    "PartialPixels": 401076
+  },
+  {
+    "File": "milk_glass.png",
+    "Width": 1024,
+    "Height": 1024,
+    "AlphaMin": 0,
+    "AlphaMax": 255,
+    "TransparentPixels": 756771,
+    "PartialPixels": 290605
+  },
+  {
+    "File": "molecule_n2.png",
+    "Width": 1024,
+    "Height": 1024,
+    "AlphaMin": 0,
+    "AlphaMax": 255,
+    "TransparentPixels": 852422,
+    "PartialPixels": 194831
+  },
+  {
+    "File": "molecule_o2.png",
+    "Width": 1024,
+    "Height": 1024,
+    "AlphaMin": 0,
+    "AlphaMax": 255,
+    "TransparentPixels": 852101,
+    "PartialPixels": 195150
+  },
+  {
+    "File": "person_wonder.png",
+    "Width": 1024,
+    "Height": 1024,
+    "AlphaMin": 0,
+    "AlphaMax": 255,
+    "TransparentPixels": 745716,
+    "PartialPixels": 300966
+  },
+  {
+    "File": "prism.png",
+    "Width": 1024,
+    "Height": 1024,
+    "AlphaMin": 0,
+    "AlphaMax": 255,
+    "TransparentPixels": 863368,
+    "PartialPixels": 184291
+  },
+  {
+    "File": "sun.png",
+    "Width": 1024,
+    "Height": 1024,
+    "AlphaMin": 0,
+    "AlphaMax": 255,
+    "TransparentPixels": 620523,
+    "PartialPixels": 427797
+  },
+  {
+    "File": "sunset.png",
+    "Width": 1024,
+    "Height": 1024,
+    "AlphaMin": 255,
+    "AlphaMax": 255,
+    "TransparentPixels": 0,
+    "PartialPixels": 0
+  }
+]
