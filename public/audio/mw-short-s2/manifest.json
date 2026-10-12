@@ -1,0 +1,82 @@
+{
+  "w1-01": {
+    "src": "audio/mw-short-s2/w1-01.wav",
+    "duration": 4.3,
+    "hash": "956d6bc1ddd5f429",
+    "heard": "전자레인지는 불도 없이 어떻게 음식을 데울까요?",
+    "match": 1,
+    "verified": true
+  },
+  "w1-02": {
+    "src": "audio/mw-short-s2/w1-02.wav",
+    "duration": 3.86,
+    "hash": "956d6bc1ddd5f429",
+    "heard": "비밀은 눈에 보이지 않는 파도 마이크로파예요.",
+    "match": 0.95,
+    "verified": true
+  },
+  "w1-03": {
+    "src": "audio/mw-short-s2/w1-03.wav",
+    "duration": 5.1,
+    "hash": "956d6bc1ddd5f429",
+    "heard": " 마이크로판은 음식 속 물 분자를 1초에 수십억 번 흔들어요.",
+    "match": 0.92,
+    "verified": true
+  },
+  "w2-01": {
+    "src": "audio/mw-short-s2/w2-01.wav",
+    "duration": 4.68,
+    "hash": "86aea6c8246c9399",
+    "heard": "흔들린 물 분자들이 서로 부딪히고 비벼지면서 열이 생겨요.",
+    "match": 1,
+    "verified": true
+  },
+  "w2-02": {
+    "src": "audio/mw-short-s2/w2-02.wav",
+    "duration": 5.6,
+    "hash": "86aea6c8246c9399",
+    "heard": "-하... 그래서 물이 없는 그릇은 그대로인데 음식만 뜨거워지는 거예요.",
+    "match": 0.96,
+    "verified": true
+  },
+  "w3-01": {
+    "src": "audio/mw-short-s2/w3-01.wav",
+    "duration": 3.48,
+    "hash": "f197761b19d5a7be",
+    "heard": "그런데 속부터 읽는다는 말은 오해에요.",
+    "match": 0.88,
+    "verified": true
+  },
+  "w3-02": {
+    "src": "audio/mw-short-s2/w3-02.wav",
+    "duration": 4.4,
+    "hash": "f197761b19d5a7be",
+    "heard": "마이크로파는 겉에서 1~2cm까지만 파고들어요.",
+    "match": 0.72,
+    "verified": true
+  },
+  "w3-03": {
+    "src": "audio/mw-short-s2/w3-03.wav",
+    "duration": 2.62,
+    "hash": "f197761b19d5a7be",
+    "heard": "두꺼운 음식의 가운데가 차가운 이유죠.",
+    "match": 1,
+    "verified": true
+  },
+  "w4-01": {
+    "src": "audio/mw-short-s2/w4-01.wav",
+    "duration": 4.62,
+    "hash": "dd32a6b3498bc8a1",
+    "heard": "불 대신 물 분자를 흔드는 것 그게 전자레인지의 원리예요.",
+    "match": 1,
+    "verified": true
+  },
+  "w4-02": {
+    "src": "audio/mw-short-s2/w4-02.wav",
+    "duration": 3.4,
+    "hash": "dd32a6b3498bc8a1",
+    "heard": "더 자세한 이야기는 롱폭 영상에서 확인해 보세요.",
+    "match": 0.95,
+    "verified": true
+  }
+}

@@ -6,6 +6,8 @@ import { LONGFORM_DURATION } from "./longform/timeline";
 import { Thumbnail } from "./longform/Thumbnail";
 import { ShortsTTS } from "./shorts2/ShortsTTS";
 import { SHORTS_STYLES, shortsTimeline } from "./shorts2/timeline";
+import { MwLong, MwShort } from "./microwave/Compositions";
+import { MW_LONG_DURATION, MW_SHORT_DURATION } from "./microwave/timeline";
 import { SkyLong, SkyShort } from "./sky/Compositions";
 import { SKY_LONG_DURATION, SKY_SHORT_DURATION } from "./sky/timeline";
 
@@ -44,6 +46,9 @@ export const RemotionRoot: React.FC = () => {
       {/* 하늘 편 (내레이션 스타일2) */}
       <Composition id="SkyLong" component={SkyLong} durationInFrames={SKY_LONG_DURATION} fps={30} width={1920} height={1080} />
       <Composition id="SkyShort" component={SkyShort} durationInFrames={SKY_SHORT_DURATION} fps={30} width={1080} height={1920} />
+      {/* 전자레인지 편 (내레이션 스타일2) */}
+      <Composition id="MwLong" component={MwLong} durationInFrames={MW_LONG_DURATION} fps={30} width={1920} height={1080} />
+      <Composition id="MwShort" component={MwShort} durationInFrames={MW_SHORT_DURATION} fps={30} width={1080} height={1920} />
       <Still id="ThumbA" component={Thumbnail} width={1280} height={720} defaultProps={{ bg: "thumb_a.png" }} />
       <Still id="ThumbB" component={Thumbnail} width={1280} height={720} defaultProps={{ bg: "thumb_b.png" }} />
       <MyComposition />

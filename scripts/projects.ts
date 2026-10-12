@@ -1,11 +1,12 @@
 // TTS·자막을 만들 대본과 내레이터 스타일을 고릅니다.
-//   --project=longform|shorts|test|sky-long|sky-short (기본 longform)
+//   --project=longform|shorts|test|sky-long|sky-short|mw-long|mw-short (기본 longform)
 //   --style=1~3 (기본 1, 목록은 src/narrators.ts)
 // 음성 폴더: public/audio/<프로젝트> (스타일 1) 또는 public/audio/<프로젝트>-s<번호>
 import { CHAPTERS as LONGFORM } from "../src/longform/script";
 import { CHAPTERS as SHORTS } from "../src/shorts2/script";
 import type { Chapter } from "../src/longform/script";
 import { LONG as SKY_LONG, SHORT as SKY_SHORT } from "../src/sky/script";
+import { LONG as MW_LONG, SHORT as MW_SHORT } from "../src/microwave/script";
 import { audioDirName, STYLES } from "../src/narrators";
 
 // test: 스타일 비교용 짧은 3문장 (쇼츠 첫 장과 같은 문장이라 스타일 1과 바로 비교 가능)
@@ -18,6 +19,9 @@ const PROJECTS: Record<string, Chapter[]> = {
   // 하늘 편
   "sky-long": SKY_LONG,
   "sky-short": SKY_SHORT,
+  // 전자레인지 편
+  "mw-long": MW_LONG,
+  "mw-short": MW_SHORT,
 };
 
 const argValue = (args: string[], name: string) =>
